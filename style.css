@@ -22,6 +22,11 @@ img{
     min-width: 0;
     width: 100%;    
 }
+.icon
+{
+    width: 50%;
+    height:50%;
+}
 .bg-image{
     background-image: url(./ocean.png);
 }
