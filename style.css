@@ -26,7 +26,9 @@ img{
     width: 20%;
     height:20%;
 }
-.bg-image{
+body{
     background-image: url(./ocean.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-size: auto;
 }
