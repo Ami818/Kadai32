@@ -21,11 +21,13 @@ img{
     min-width: 0;
     width: 100%;    
 }
+
 .logo{
     font-size: large;
     text-align: center;
     color: blueviolet;
 }
+
 .icon
 {
     width: 20%;
