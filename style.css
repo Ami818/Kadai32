@@ -1,6 +1,5 @@
 :root
 {
-    background-color: white;
     --first-color: blue;
     --second-color:rgb(222, 221, 255);
     --third-color:black;
@@ -24,9 +23,10 @@ img{
 }
 .icon
 {
-    width: 50%;
-    height:50%;
+    width: 20%;
+    height:20%;
 }
 .bg-image{
     background-image: url(./ocean.png);
+    background-size: auto;
 }
