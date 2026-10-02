@@ -21,6 +21,10 @@ img{
     min-width: 0;
     width: 100%;    
 }
+.logo{
+    font-size: large;
+    text-align: center;
+}
 .icon
 {
     width: 20%;
