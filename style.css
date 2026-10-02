@@ -22,3 +22,6 @@ img{
     min-width: 0;
     width: 100%;
 }
+.bg-image{
+    background-image: url(./ocean.png);
+}
