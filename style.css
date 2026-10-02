@@ -1,0 +1,24 @@
+:root
+{
+    background-color: white;
+    --first-color: blue;
+    --second-color:rgb(222, 221, 255);
+    --third-color:black;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.zen-old-mincho-regular {
+  font-family: "Zen Old Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+img{
+    min-width: 0;
+    width: 100%;
+}
