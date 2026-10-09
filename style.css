@@ -19,7 +19,7 @@ html{
 }
 img{
     min-width: 0;
-    width: 100%;    
+    width: 100%;
 }
 
 .logo{
@@ -27,12 +27,20 @@ img{
     text-align: center;
     color: blueviolet;
 }
-
+.karinPhoto{
+    justify-content: right;
+}
 .icon
 {
     width: 20%;
     height:20%;
-    justify-content: right;
+}
+.developer{
+    color:rgb(119, 25, 150);
+}
+.title{
+    color:blueviolet;
+    text-align: center;
 }
 body{
     background-image: url(./ocean.png);
