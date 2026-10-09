@@ -43,6 +43,13 @@ img{
     color:blueviolet;
     text-align: center;
 }
+.kwsk{
+    color: blue;
+}
+.Game_Name
+{
+    color: blue;
+}
 body{
     background-image: url(./ocean.png);
     background-repeat: no-repeat;
