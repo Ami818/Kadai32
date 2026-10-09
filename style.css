@@ -50,6 +50,9 @@ img{
 {
     color: blue;
 }
+.eme{
+    color:rgb(16, 157, 133);
+}
 body{
     background-image: url(./ocean.png);
     background-repeat: no-repeat;
