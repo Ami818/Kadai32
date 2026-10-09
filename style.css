@@ -1,61 +1,72 @@
-:root
-{
+:root {
     --first-color: blue;
-    --second-color:rgb(222, 221, 255);
-    --third-color:black;
+    --second-color: rgb(222, 221, 255);
+    --third-color: black;
 }
-*{
+
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
+
 .zen-old-mincho-regular {
-  font-family: "Zen Old Mincho", serif;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Zen Old Mincho", serif;
+    font-weight: 400;
+    font-style: normal;
 }
-img{
+
+img {
     min-width: 0;
     width: 100%;
 }
-.eik{
-    color:rgb(16, 157, 133);    
+
+.eik {
+    color: rgb(16, 157, 133);
 }
-.logo{
+
+.logo {
     font-size: 40px;
     text-align: center;
     color: blueviolet;
 }
-.karinPhoto{
+
+.karinPhoto {
     display: flex;
     justify-content: center;
 }
-.icon
-{
+
+.icon {
     width: 20%;
-    height:20%;
+    height: 20%;
 }
-.developer{
-    color:rgb(119, 25, 150);
+
+.developer {
+    color: rgb(119, 25, 150);
 }
-.title{
-    color:blueviolet;
+
+.title {
+    color: blueviolet;
     text-align: center;
 }
-.kwsk{
+
+.kwsk {
     color: blue;
 }
-.Game_Name
-{
+
+.Game_Name {
     color: blue;
 }
-.eme{
-    color:rgb(16, 157, 133);
+
+.eme {
+    color: rgb(16, 157, 133);
 }
-body{
+
+body {
     background-image: url(./ocean.png);
     background-repeat: no-repeat;
     background-size: cover;
