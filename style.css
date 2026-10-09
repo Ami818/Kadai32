@@ -29,7 +29,7 @@ img{
 }
 .karinPhoto{
     display: flex;
-    justify-content: right;
+    justify-content: center;
 }
 .icon
 {
