@@ -28,6 +28,7 @@ img{
     color: blueviolet;
 }
 .karinPhoto{
+    display: flex;
     justify-content: right;
 }
 .icon
